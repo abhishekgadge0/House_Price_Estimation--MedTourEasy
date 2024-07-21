@@ -1,15 +1,18 @@
-# Regression Analysis with Streamlit Interface
+
+# House Price Estimation Model
 
 ## Introduction
-This data science project involves a regression task where I achieved a good RMSE score and developed a user interface using Streamlit. The project demonstrates the application of machine learning techniques to solve regression problems and provides an interactive platform for users to explore the results.
+This data science project involves a regression task where I performed data analysis, plotted a graph on Price vs. Condition of houses, built three different regression models, achieved a good RMSE score, and developed a user interface using Streamlit. The project demonstrates the use of data analysis, application of machine learning techniques to solve regression problems, and provides an interactive platform for users to explore the results.
 
 ## Project Goals
-- Perform a regression analysis to predict target variables.
-- Achieve a good RMSE score through model optimization.
-- Develop an interactive user interface using Streamlit.
+- Collect data.
 - Implement comprehensive data cleaning and preprocessing.
+- Analyze the data and build visualizations to present to stakeholders.
 - Conduct exploratory data analysis (EDA).
 - Deploy multiple machine learning models for comparison and evaluation.
+- Perform regression analysis to predict target variables.
+- Achieve a good RMSE score through model optimization.
+- Develop an interactive user interface using Streamlit.
 
 ## Methodology
 - **Data Exploration and Preprocessing:** Analyze, clean, and preprocess the dataset to prepare it for modeling.
